@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sample-hotelwebpage/static/css/main.2ef10402.chunk.css",
+    "main.js": "/sample-hotelwebpage/static/js/main.0e47d831.chunk.js",
+    "main.js.map": "/sample-hotelwebpage/static/js/main.0e47d831.chunk.js.map",
+    "runtime-main.js": "/sample-hotelwebpage/static/js/runtime-main.7e1d914b.js",
+    "runtime-main.js.map": "/sample-hotelwebpage/static/js/runtime-main.7e1d914b.js.map",
+    "static/js/2.2124fa7f.chunk.js": "/sample-hotelwebpage/static/js/2.2124fa7f.chunk.js",
+    "static/js/2.2124fa7f.chunk.js.map": "/sample-hotelwebpage/static/js/2.2124fa7f.chunk.js.map",
+    "index.html": "/sample-hotelwebpage/index.html",
+    "static/css/main.2ef10402.chunk.css.map": "/sample-hotelwebpage/static/css/main.2ef10402.chunk.css.map",
+    "static/js/2.2124fa7f.chunk.js.LICENSE.txt": "/sample-hotelwebpage/static/js/2.2124fa7f.chunk.js.LICENSE.txt",
+    "static/media/Home.2dbee40d.jpg": "/sample-hotelwebpage/static/media/Home.2dbee40d.jpg",
+    "static/media/services.c695d441.jpg": "/sample-hotelwebpage/static/media/services.c695d441.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e1d914b.js",
+    "static/js/2.2124fa7f.chunk.js",
+    "static/css/main.2ef10402.chunk.css",
+    "static/js/main.0e47d831.chunk.js"
+  ]
+}
